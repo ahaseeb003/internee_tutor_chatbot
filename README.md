@@ -13,7 +13,7 @@ It uses **OpenRouter’s free model Z.AI: GLM 4.5 Air** (`z-ai/glm-4.5-air`) as 
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourname/internee_tutor_chatbot.git
+   git clone https://github.com/ahaseeb003/internee_tutor_chatbot.git
    cd internee_tutor_chatbot
    ```
 
